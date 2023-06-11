@@ -1,0 +1,27 @@
+credentials:
+  username: username
+  password: password
+planet1:
+  amount_to_open: 1
+  currency: 2
+  cutoff: 10000
+  instance_box_number: 27
+  instance_fleet_count: 15
+  instance_number: 27
+  spins: 5
+planet2:
+  amount_to_open: 1
+  currency: 2
+  cutoff: 10000
+  instance_box_number: 13
+  instance_fleet_count: 9
+  instance_number: 13
+  spins: 0
+planet3:
+  amount_to_open: 2
+  currency: 2
+  cutoff: 10000
+  instance_box_number: 13
+  instance_fleet_count: 9
+  instance_number: 13
+  spins: 0
